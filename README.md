@@ -25,12 +25,11 @@ This Project presents a movie recommender app that takes in an input of 3 movie 
 * Install project dependencies
 
 ## Result Snippet
-The General outlook of the dataset is displayed in the plot below:
+'''The General outlook of the dataset is displayed in the plot below:
 
 <p align="center">
 <img align = "https://github.com/OnyekaEkesi/Pics_for_github_project_readme/blob/main/movie_recommender/movieCount.jpg?raw=true">
-</p> <br> 
-
+</p> <br> '''
 The plot below displays the RMSE scores of the models used:
 <p align="center">
 <img align = "center" width="700" height="400" src="https://github.com/OnyekaEkesi/Pics_for_github_project_readme/blob/main/movie_recommender/rmse.jpg?raw=true">
