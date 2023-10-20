@@ -10,6 +10,7 @@ We divided the process into the following phases:
 
 ## Feature
 This Project presents a movie recommender app that takes in an input of 3 movie options and returns 10 movie options that are similar in content and rating. The tool is implemented as a web application using Streamlit, which makes it easy to use and interact with. This application enables companies retain its subscribers by providing them an experience that match their taste while eliminating long searches for their preferred kind of movies.
+
 ## Tools utilized
 * Python
 * Sklearn
@@ -19,3 +20,9 @@ This Project presents a movie recommender app that takes in an input of 3 movie 
 * Comet
 
 ## Installation
+* pip install python
+* install surprise and download the model packages 
+* Install project dependencies
+
+## Result Snippet
+
