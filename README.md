@@ -7,7 +7,7 @@ We divided the process into the following phases:
 1. Data collection, cleaning and Exploratory data analysis.
 2. Model selection and training.
 3. Model evaluation and deployment: The metric of evaluation was the RMSE score which indicates the level of clustering of the the dataset.<br>
-a low RMSE score indicates better clsutering helping us to choose the best performing model. We worked with the SVD, SVD+, Gridsearch and NMF<br> model. among which the best performing model was the SVD.
+a low RMSE score indicates better clsutering helping us to choose the best performing model. We worked with the SVD, SVD+, Gridsearch and NMF model. among which the best performing model was the SVD.
 
 
 
