@@ -26,6 +26,7 @@ This Project presents a movie recommender app that takes in an input of 3 movie 
 
 ## Result Snippet
 The General outlook of the dataset is displayed in the plot below:
+
 <p align="center">
 <img align = "https://github.com/OnyekaEkesi/Pics_for_github_project_readme/blob/main/movie_recommender/count-of-rating.jpg?raw=true">
 </p> <br> 
