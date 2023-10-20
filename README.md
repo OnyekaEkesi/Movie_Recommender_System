@@ -6,4 +6,6 @@ In this unsupervised machine learning project, we developed a movie recommender 
 We divided the process into the following phases:
 1. Data collection, cleaning and Exploratory data analysis.
 2. Model selection and training.
-3. Model evaluation and deployment.
+3. Model evaluation and deployment: The metric of evaluation was the RMSE score which indicates the level of clustering of the the dataset.<br>
+a low RMSE score indicates better clsutering helping us to choose the best performing model which is the SVD model. 
+
