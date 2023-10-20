@@ -25,4 +25,26 @@ This Project presents a movie recommender app that takes in an input of 3 movie 
 * Install project dependencies
 
 ## Result Snippet
+The General outlook of the dataset is displayed in the plot below:
+<p align="center">
+<img align = "https://github.com/OnyekaEkesi/Pics_for_github_project_readme/blob/main/movie_recommender/count-of-rating.jpg?raw=true">
+</p> <br> 
 
+The plot below displays the RMSE scores of the models used:
+<p align="center">
+<img align = "center" width="700" height="400" src="https://github.com/OnyekaEkesi/Pics_for_github_project_readme/blob/main/movie_recommender/rmse.jpg?raw=true">
+</p> 
+
+##  Recommendation
+The movie recommender application gives users the benefit of enhanced customer satisfaction and improved movie discovery, while it gives companies the benefit of improved user engagement, improved market penetration, better decision making and overall increased revenue generation.
+
+## Acknowledgement
+I am deeply grateful to my outstanding team of data and innovation enthusiasts, whose collaborative spirit and cutting-edge data analysis and machine learning skills have made a significant impact on this project.
+
+* Greensmill Emmanuel
+* Siphosethu Matomela
+* Onyebuchi Madubuko
+* Tebatso Malotane
+
+## Note: 
+* Due to the nature of this project, code cannot be shared publicly.
